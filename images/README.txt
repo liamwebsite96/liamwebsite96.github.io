@@ -1,15 +1,13 @@
 Drop Liam's photos into this folder using these exact filenames — the site
 will pick them up automatically (no code changes needed).
 
-  hero.jpg        Wide background photo behind the top banner
-                   (a work/action shot looks best — it gets darkened,
-                   so busy photos still read fine)
-
-  portrait.jpg     Headshot/portrait shown in the framed box on the
-                   hero section (portrait orientation, roughly 3:4)
+  portrait.jpg     Circular headshot shown at the top of the hero section
+                   (square-ish crop, centered on the face works best)
 
   about.jpg        Photo next to the About section (portrait orientation,
-                   roughly 4:5) — a candid working shot works well here
+                   roughly 4:5) — currently a stock industrial/automation
+                   photo standing in; swap in a real work photo of Liam
+                   any time
 
   highlight-1.jpg  Photo for the "Fire Suppression Recovery" spotlight
                    (landscape, roughly 16:9)
